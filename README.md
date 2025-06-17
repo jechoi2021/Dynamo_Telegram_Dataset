@@ -1,7 +1,8 @@
 # Dynamo_Telegram_Dataset
 
-This repository describes the Telegram dataset collected and curated as part of the research project DYNAMO.
+This repository briefly describes the Telegram dataset collected and curated as part of the research project DYNAMO.
 For a detailed description and analysis, please refer to our paper (currently under review) 
+Our dataset can be found here:
 
 ## Dataset Structure
 The dataset is divided into two main collections:
