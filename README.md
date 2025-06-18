@@ -21,7 +21,7 @@ Due to potential privacy and legal concerns, only anonymized metadata is provide
 
 ## Anonymization and Identifiers
 Actor identifiers (for both channels and groups) are pseudonymized and do not correspond to actual Telegram IDs.
-
+The same is for user identifiers.
 Post identifiers are unique within each file and correspond to the original Telegram message ID within that actor.
 
 Filenames in Collection_{posts} match the pseudonymized actor ID in Collection_{actors}.
