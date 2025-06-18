@@ -2,7 +2,7 @@
 
 This repository briefly describes the Telegram dataset collected and curated as part of the research project DYNAMO.
 For a detailed description and analysis, please refer to our paper (currently under review) 
-Our dataset can be found here:
+Our dataset can be found here: https://zenodo.org/records/15686121 (DOI https://doi.org/10.5281/zenodo.15686120)
 
 ## Dataset Structure
 The dataset is divided into two main collections:
