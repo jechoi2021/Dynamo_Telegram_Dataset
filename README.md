@@ -4,6 +4,9 @@ This repository briefly describes the Telegram dataset collected and curated as 
 For a detailed description and analysis, please refer to our paper (currently under review) 
 Our dataset can be found here: https://zenodo.org/records/15686121 (DOI https://doi.org/10.5281/zenodo.15686120)
 
+**!! Update !!**
+- November 2025: Our dataset paper has been accepted for the IEEE BigData2025 Conference and will appear soon in the proceedings. The link to the paper will be added once the proceedings are published. Until then, you can temporarily access our paper here: [PAPER]().
+
 ## Dataset Structure
 The dataset is divided into two main collections:
 
